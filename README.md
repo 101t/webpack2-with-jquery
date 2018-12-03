@@ -4,4 +4,4 @@ This is example, how to configure webpack with multiple html pages and adding jQ
 
 ### Contributes
 
-This's inspired from [Maximilian Schwarzmüller](https://github.com/mschwarzmueller/yt-webpack2-basics/tree/06-webpack-babel-scss-img-html)
+This inspired from [Maximilian Schwarzmüller](https://github.com/mschwarzmueller/yt-webpack2-basics/tree/06-webpack-babel-scss-img-html)
